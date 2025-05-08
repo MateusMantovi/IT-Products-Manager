@@ -1,0 +1,24 @@
+﻿# Node
+node_modules/
+npm-debug.log
+dist/
+
+# Java
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.log
+*.swp
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Database
+*.db
+*.sqlite
